@@ -64,10 +64,7 @@ Movix is built with the following technologies:
 - Redux
 - SCSS (Sass)
 
-# Course Overview
-
-This course is designed to teach you the following core concepts of React.js and more:
-
+#  Overview
 - JSX
 - Components
 - Props
@@ -77,8 +74,4 @@ This course is designed to teach you the following core concepts of React.js and
 - Lists and Keys
 - Redux Integration
 
-By the end of this course, you'll have a solid understanding of React.js and Redux, allowing you to create interactive and visually appealing web applications like Movix.
 
-# Contributing
-
-We welcome contributions to make Movix even better. If you'd like to contribute, please follow our [contributing guidelines](CONTRIBUTING.md).
