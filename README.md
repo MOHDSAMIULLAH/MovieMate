@@ -21,3 +21,64 @@ To get started with Movix, follow these steps:
    ```bash
    git clone https://github.com/MOHDSAMIULLAH/movix.git
 ```
+# Installation
+
+1. **Navigate to the project directory:**
+
+    ```bash
+    cd movix
+    ```
+
+2. **Install the required dependencies using npm or yarn:**
+
+    ```bash
+    npm install
+    # or
+    yarn install
+    ```
+
+3. **Start the development server:**
+
+    ```bash
+    npm start
+    # or
+    yarn start
+    ```
+
+   Now, you should have Movix up and running locally!
+
+# Usage
+
+Once the application is running, you can:
+
+- Browse and search for movies.
+- View detailed movie information.
+- Interact with the application to explore its features and functionalities.
+- Learn React.js and Redux concepts as you explore the codebase.
+
+# Technologies Used
+
+Movix is built with the following technologies:
+
+- React
+- Redux
+- SCSS (Sass)
+
+# Course Overview
+
+This course is designed to teach you the following core concepts of React.js and more:
+
+- JSX
+- Components
+- Props
+- State
+- Lifecycle of Components
+- Conditional Rendering
+- Lists and Keys
+- Redux Integration
+
+By the end of this course, you'll have a solid understanding of React.js and Redux, allowing you to create interactive and visually appealing web applications like Movix.
+
+# Contributing
+
+We welcome contributions to make Movix even better. If you'd like to contribute, please follow our [contributing guidelines](CONTRIBUTING.md).
