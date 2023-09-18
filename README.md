@@ -1,4 +1,4 @@
-# Movix - Your Ultimate Movies Database Application
+# MovieMate - Your Ultimate Movies Database Application
 
 ## Features
 
