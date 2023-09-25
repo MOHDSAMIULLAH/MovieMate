@@ -1,9 +1,20 @@
 # MovieMate - Your Ultimate Movies Database Application
 ## Live Demo: https://moviemate-main.netlify.app/
 
+### Homepage
 ![image](https://github.com/MOHDSAMIULLAH/MovieMate/assets/91786605/60b42ab8-a7ee-43c2-8341-19dd66b7820e)
+
+###Explore Page
 ![image](https://github.com/MOHDSAMIULLAH/MovieMate/assets/91786605/d3886c88-560c-4a3e-9fad-d745132ac588)
+
+###Detail Page
 ![image](https://github.com/MOHDSAMIULLAH/MovieMate/assets/91786605/c9d42a00-c5ba-4881-bde7-19d53df43216)
+![image](https://github.com/MOHDSAMIULLAH/MovieMate/assets/91786605/70d0ae43-43b6-4af1-88b4-389595fe321a)
+
+### Search Page
+![image](https://github.com/MOHDSAMIULLAH/MovieMate/assets/91786605/8d6b830d-ac2e-448e-998f-50692374d103)
+
+
 
 
 
