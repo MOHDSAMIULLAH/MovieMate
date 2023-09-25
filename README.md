@@ -56,7 +56,7 @@ Once the application is running, you can:
 
 # Technologies Used
 
-Movix is built with the following technologies:
+MovieMate is built with the following technologies:
 
 - React
 - Redux
