@@ -4,10 +4,10 @@
 ### Homepage
 ![image](https://github.com/MOHDSAMIULLAH/MovieMate/assets/91786605/60b42ab8-a7ee-43c2-8341-19dd66b7820e)
 
-###Explore Page
+### Explore Page
 ![image](https://github.com/MOHDSAMIULLAH/MovieMate/assets/91786605/d3886c88-560c-4a3e-9fad-d745132ac588)
 
-###Detail Page
+### Detail Page
 ![image](https://github.com/MOHDSAMIULLAH/MovieMate/assets/91786605/c9d42a00-c5ba-4881-bde7-19d53df43216)
 ![image](https://github.com/MOHDSAMIULLAH/MovieMate/assets/91786605/70d0ae43-43b6-4af1-88b4-389595fe321a)
 
