@@ -2,7 +2,6 @@
 ## Live Demo: https://moviemate-main.netlify.app/
 ## Features
 
-- 
 ### Application Overview
 
 "MovieMate" is a top-notch movie database application.
